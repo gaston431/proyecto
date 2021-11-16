@@ -1,3 +1,3 @@
 <?php 
-	echo "Hola Mundos";
+	echo "Hola Mundos 2";
 ?>
